@@ -1,0 +1,4 @@
+Ana 9.2
+Carlos 7.7
+Emanuel 8.1
+Paulo 10
